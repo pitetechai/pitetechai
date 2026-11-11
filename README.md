@@ -43,11 +43,10 @@ O nome vem de duas letras gregas: **π**, a base matemática e a precisão da en
 
 ## Contato
 
-<!-- TODO: ativar quando o domínio estiver registrado
-- 🌐 Site: https://pitetech.com.br
-- ✉️ contato@pitetech.com.br
-- 💼 LinkedIn: Pitetech
--->
+- 🌐 Site: [pitetech.github.io](https://pitetech.github.io)
+- 💬 WhatsApp: [(11) 99354-9702](https://wa.me/5511993549702?text=Ol%C3%A1!%20Vim%20pelo%20GitHub%20da%20Pitetech.)
+
+<!-- TODO: acrescentar e-mail do domínio e LinkedIn quando existirem -->
 
 Fundada por **André "Piteta"**
 
