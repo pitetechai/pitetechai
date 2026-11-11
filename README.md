@@ -41,7 +41,7 @@ Não amarramos você a uma linguagem: a stack é escolhida pela necessidade de c
 
 ## Contato
 
-- 🌐 Site: [pitetech.github.io](https://pitetech.github.io)
+- 🌐 Site: [pitetech.netlify.app](https://pitetech.netlify.app)
 - 💬 WhatsApp: [(11) 99354-9702](https://wa.me/5511993549702?text=Ol%C3%A1!%20Vim%20pelo%20GitHub%20da%20Pitetech.)
 
 <!-- TODO: acrescentar e-mail do domínio e LinkedIn quando existirem -->
