@@ -13,23 +13,21 @@
 
 ## 🇧🇷 Sobre
 
-A **Pitetech** une engenharia de software sólida e IA aplicada. Projetamos e construímos sistemas que resolvem problemas reais e aprendem com os dados, do back-end em C#/.NET aos modelos de IA.
+A **Pitetech** une engenharia de software sólida e IA aplicada. Projetamos e construímos sistemas que resolvem problemas reais e aprendem com os dados, do back-end aos modelos de IA.
 
 O nome vem de duas letras gregas: **π**, a base matemática e a precisão da engenharia, e **θ**, o símbolo dos parâmetros que um modelo aprende.
 
 ## O que fazemos
 
-- **Sistemas sob medida** em C#/.NET: APIs, back-ends e integrações.
+- **Sistemas sob medida**: APIs, back-ends, front-ends e integrações, na tecnologia que o problema pede.
 - **IA aplicada**: LLMs, automação de processos e agentes dentro de produtos reais.
-- **Ferramentas e bibliotecas** abertas para a comunidade .NET.
+- **Ferramentas e bibliotecas** abertas para a comunidade.
 
-## Stack
+## Tecnologia
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![AI](https://img.shields.io/badge/AI-7C5CFF?style=flat)
+Não amarramos você a uma linguagem: a stack é escolhida pela necessidade de cada projeto.
 
-<!-- TODO: acrescentar as tecnologias que realmente usam (Azure, SQL Server, Python, etc.) -->
+![AI](https://img.shields.io/badge/IA%20aplicada-7C5CFF?style=flat)
 
 ## Projetos
 
@@ -54,7 +52,7 @@ Fundada por **André "Piteta"**
 
 ## 🇬🇧 About
 
-**Pitetech** combines solid software engineering with applied AI. We design and build systems that solve real problems and learn from data, from C#/.NET back-ends to AI models.
+**Pitetech** combines solid software engineering with applied AI. We design and build systems that solve real problems and learn from data, from back-ends to AI models.
 
 The name comes from two Greek letters: **π**, the mathematical foundation behind precise engineering, and **θ**, the symbol for the parameters a model learns.
 
